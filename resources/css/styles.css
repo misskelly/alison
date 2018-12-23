@@ -1,6 +1,6 @@
 html, 
 body {
-  height: 120%
+  height: 100%
 }
 
 body {
@@ -9,7 +9,7 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   body {*/
-  background: url(../images/comingsoon.jpg) no-repeat top center fixed;
+  background: url(../images/comingsoon.jpg) no-repeat top right fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
