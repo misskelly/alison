@@ -1,0 +1,24 @@
+html, 
+body {
+  height: 120%
+}
+
+body {
+/*  background: url("../images/comingsoon.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  body {*/
+  background: url(../images/comingsoon.jpg) no-repeat top center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h3 {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 3rem;
+  color: #557B7A;
+}
